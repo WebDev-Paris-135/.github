@@ -72,6 +72,13 @@ Here is the monday workflow, although it might look complex at a first glance, i
 
 You will just need to `clone` the repository once the teacher added all of the morning lesson to it.
 
+> [!IMPORTANT]
+> To clone a repo, use your terminal to go somewhere in your computer where you want to download the repository.
+>
+> ```bash
+> git clone the-repo-url-ending-with .git
+> ```
+
 ```mermaid
 sequenceDiagram
     title Monday workflow
@@ -101,7 +108,8 @@ sequenceDiagram
 
 ### Rest of the week workflow
 
-Once you have a locally cloned repository, if you want to get the new content added by the teacher, you don't need to make a new `clone`, you will just need the `pull` the changes
+> [!IMPORTANT]
+> Once you have a locally cloned repository, if you want to get the new content added by the teacher, you don't need to make a new `clone`, you will just need the `pull` the changes
 
 ```mermaid
 sequenceDiagram
