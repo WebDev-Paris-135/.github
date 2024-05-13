@@ -7,7 +7,7 @@
 
 ### Welcome hackers 😎!
 
-Starting #DATE you will have 10 weeks to learn the fundamentals of Web Development.
+Starting 13th of May you will have 10 weeks to learn the fundamentals of Web Development.
 
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'base' } }%%
